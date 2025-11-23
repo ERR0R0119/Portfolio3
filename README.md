@@ -38,7 +38,7 @@ You can view the live website here: [Live Demo](https://dynamic-selkie-d79581.ne
 
 ## 📂 Project Structure
 
-portfolio4/
+portfolio3/
 │
 ├─ index.html # Main html file
 ├─ styles.css # CSS file
