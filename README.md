@@ -48,20 +48,6 @@ portfolio4/
 
 ---
 
-## 📌 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Saboo24/portfolio4.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd portfolio4
-   ```
-3. Open `index.html` in your favorite browser to view the website.
-
----
-
 ## 💡 Usage
 
 - Showcase your personal projects, skills, and blog posts.  
@@ -76,14 +62,4 @@ This project is licensed under the terms described in the [LICENSE](License) fil
 
 ---
 
-## 📬 Contact
-
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
-
----
-
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **ERROR**
