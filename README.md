@@ -9,7 +9,7 @@ Welcome to my **personal portfolio website**! This website showcases my skills, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://dynamic-selkie-d79581.netlify.app/)
+You can view the live website here: [Live Demo](https://loh-portfolio3-b122510451.vercel.app/)
 
 ---
 
